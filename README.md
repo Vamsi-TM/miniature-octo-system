@@ -1,2 +1,2 @@
 # miniature-octo-system
-A basic python pipelibne set up on drone
+A basic python pipeline set-up on drone CI
