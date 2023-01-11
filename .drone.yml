@@ -10,5 +10,6 @@ steps:
     commands:
       - echo creating
       - pip install -r requirements.txt
+      - echo ===================================================================
       - echo "This is WORKING"
       - pytest
